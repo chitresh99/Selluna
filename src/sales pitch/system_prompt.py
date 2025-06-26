@@ -20,11 +20,3 @@ def system_prompt()->str:
 
     """
     return sales_pitch_gen_prompt
-
-
-
-
-
-
-    
-
