@@ -2,7 +2,7 @@
 
 ## Feature: **Automated Sector Intelligence Reports**
 
-### 🧠 What This Feature Does
+### What This Feature Does
 
 This module automatically creates a **beautiful, up-to-date, and insight-rich report** for a chosen **industry, niche, or sector**. Could be:
 
@@ -15,7 +15,7 @@ This module automatically creates a **beautiful, up-to-date, and insight-rich re
 
 ---
 
-### 📊 Key Report Sections
+### Key Report Sections
 
 #### 1. **Sector Overview**
 
@@ -92,7 +92,7 @@ This module automatically creates a **beautiful, up-to-date, and insight-rich re
 
 ---
 
-### 🔮 Bonus: Scheduled Sector Dossiers
+### Bonus: Scheduled Sector Dossiers
 
 * “Send me weekly updates on HealthTech in India.”
 * Slack + Email alerts
